@@ -1,8 +1,10 @@
 = My First Post!
 
-Just a quick post on my new blog. 
+This is just a quick post on my new blog. 
 
-This will be a home for writing about new developments and my world within Healthcare IT. Trying to improve our NHS One step at a time!
+This will be a home for writing about new developments and my world within Healthcare IT. 
+
+Im trying to improve our NHS One step at a time!
 
 Keep checking back. I have lots to share!
 
